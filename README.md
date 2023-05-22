@@ -6,3 +6,4 @@
 ## mais titulo secundario
 
 * uso do comando git restore   ddddc 
+* comando git pull
